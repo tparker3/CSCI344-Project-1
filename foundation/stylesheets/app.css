@@ -26,6 +26,7 @@ body {
 .login a {
   color: #ff0000;
   text-align: right;
+  font-family: karla;
 }
 
 .login a:visited {
@@ -41,6 +42,9 @@ body {
   font-family: Roboto;
 }
 
+.content {
+ font-family: karla; 
+}
 
 /* -----------------------------------------
    Page Name 2
