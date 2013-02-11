@@ -23,17 +23,23 @@ body {
   background: #00A676;
 }
 
-.login {
-  font-color: #ff0000;
-  float : right;
+.login a {
+  color: #ff0000;
+  text-align: right;
+}
+
+.login a:visited {
+  color: #f00;
+  text-align: right;
 }
 
 .foot {
-  float: right;
+  text-align: right;
   margin-right: 50px;
 }
-
-
+ .title {
+  font-family: Roboto;
+}
 
 
 /* -----------------------------------------
