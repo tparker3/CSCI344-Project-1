@@ -19,6 +19,20 @@
    Page Name 1
 ----------------------------------------- */
 
+body {
+  background: #00A676;
+}
+
+.login {
+  font-color: #ff0000;
+  float : right;
+}
+
+.foot {
+  float: right;
+  margin-right: 50px;
+}
+
 
 
 
